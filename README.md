@@ -80,6 +80,17 @@ We invite you to participate in our human evaluation by providing your judgment 
 
 ## 🙌 Acknowledgement
 
+We gratefully acknowledge the following prior works that inspire and support the video quality metrics of WorldArena:
+
+- [VBench](https://github.com/Vchitect/VBench)  
+- [EWMBench](https://github.com/AgibotTech/EWMBench)  
+- [WorldScore](https://github.com/haoyi-duan/WorldScore)  
+- [EvalCrafter](https://github.com/evalcrafter/EvalCrafter)  
+- [JEDI](https://github.com/oooolga/JEDi)  
+
+We also thank [VPP](https://github.com/roboterax/video-prediction-policy) for providing the IDM framework used in our embodied action planning implementation.
+
+
 
 ## 📖 Citation
 
