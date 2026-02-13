@@ -66,13 +66,11 @@ Coming soon.
 The official WorldArena leaderboard is hosted on Hugging Face: [![Leaderboard](https://img.shields.io/badge/Leaderboard-HuggingFace-2D2D2D?style=flat&logo=huggingface&logoColor=ffcc00)](https://huggingface.co/spaces/WorldArena/WorldArena). It provides standardized evaluation results across video perception quality, embodied task functionality, and the unified EWMScore. We welcome community submissions to benchmark new embodied world models under a fair and reproducible protocol. Join us in advancing truly functional world models for embodied AI.
 
 
-
-
-
-
-
-
 ## Submission
 Coming soon.
+
+
+## Acknowledgement
+
 
 ## Citation
