@@ -18,7 +18,6 @@
 
 </div>
 
----
 
 ## Table of Contents
 
