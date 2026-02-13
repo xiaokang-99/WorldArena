@@ -43,7 +43,7 @@ WorldArena is a unified benchmark designed to systematically evaluate embodied w
 
 
 ## Dataset
-To be released.
+Coming soon.
 
 
 ## Video Quality Evaluation
@@ -59,10 +59,16 @@ To be released.
 <img src="assets/task_eval.png" width="85%">
 
 </div>
-To be released.
+Coming soon.
 
 ## Leaderboard
 
+The official WorldArena leaderboard is hosted on Hugging Face:  👉 https://huggingface.co/spaces/WorldArena/WorldArena.
+
+It provides standardized evaluation results across video perception quality, embodied task functionality, and the EWMScore index. We welcome community submissions to benchmark new world models under a fair and reproducible protocol. Join us in advancing truly functional world models for embodied AI.
+
+
 ## Submission
+Coming soon.
 
 ## Citation
