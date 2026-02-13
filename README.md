@@ -21,15 +21,16 @@
 
 ## Table of Contents
 
-- [Updates](#updates)
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Video Quality Evaluation](#video_quality_evaluation)
-- [Embodied Task Evaluation](#embodied_task_evaluation)
-- [Leaderboard](#leaderboard)
-- [Submission](#submission)
-- [Human Evaluation](#human_evaluation)
-- [Citation](#citation)
+- [Updates](#-updates)
+- [Overview](#-overview)
+- [Dataset](#-dataset)
+- [Video Quality Evaluation](#-video-quality-evaluation)
+- [Embodied Task Evaluation](#-embodied-task-evaluation)
+- [Leaderboard](#-leaderboard)
+- [Submission](#-submission)
+- [Human Evaluation](#-human-evaluation)
+- [Citation](#-citation)
+
 
 
 ## 📢 Updates
